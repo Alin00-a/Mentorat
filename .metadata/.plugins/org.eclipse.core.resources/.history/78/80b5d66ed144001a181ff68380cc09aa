@@ -1,0 +1,13 @@
+
+public class Exercitiul917 {
+
+	public static void main(String[] args) {
+		int a=25,b=20,c=15,d=25;
+		double rezultat=(a+b+c+d)/4+(a+b+c+d)%4;
+		System.out.println("Suma numerelor este: "+(a+b+c+d));
+		System.out.println("Media numerelor este: "+((a+b+c+d)/4)+"."+((a+b+c+d)%4));
+		System.out.println(rezultat);
+
+	}
+
+}

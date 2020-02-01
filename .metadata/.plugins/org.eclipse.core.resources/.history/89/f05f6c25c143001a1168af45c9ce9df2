@@ -1,0 +1,12 @@
+
+public class Exercitiul925 {
+
+	public static void main(String[] args) {
+		int a=3; 
+		int b=1;
+		int c=2;
+		
+		
+	}
+
+}

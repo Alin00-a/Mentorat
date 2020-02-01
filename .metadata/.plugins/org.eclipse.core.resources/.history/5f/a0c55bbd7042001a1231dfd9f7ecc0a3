@@ -1,0 +1,11 @@
+
+public class Exercitiul918 {
+
+	public static void main(String[] args) {
+		int a=25,b=20,c=15,d=25;
+		System.out.println("Suma numerelor este: "+(a+b+c+d));
+		System.out.println("Meida numerelor este: "+((a+b+c+d)/4)+"."+((a+b+c+d)%4));
+
+	}
+
+}

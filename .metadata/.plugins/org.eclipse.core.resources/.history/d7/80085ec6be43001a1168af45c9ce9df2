@@ -1,0 +1,10 @@
+
+public class Exercitiul925 {
+
+	public static void main(String[] args) {
+		int a=3,b=1,c=2;
+		
+
+	}
+
+}

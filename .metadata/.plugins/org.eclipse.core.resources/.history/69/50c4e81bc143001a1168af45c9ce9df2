@@ -1,0 +1,15 @@
+
+public class Exercitiul923 {
+
+	public static void main(String[] args) {
+		int i=35;
+		if(i<0) {
+			System.out.println("Numarul 35 este negativ");
+		}
+		else {
+			System.out.println("Numarul 35 este pozitiv");
+		}
+
+	}
+
+}

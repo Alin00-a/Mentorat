@@ -1,0 +1,21 @@
+
+public class Exercitiul923 {
+
+	public static void main(String[] args) {
+		int i=4;
+		if(i>0) {
+			do {
+			System.out.println("Numarul 4 este pozitiv");
+		}
+			while(i<0);
+		
+				
+			
+
+	}
+		else{
+			System.out.println("Numarul este negativ");
+		}
+	}
+
+}

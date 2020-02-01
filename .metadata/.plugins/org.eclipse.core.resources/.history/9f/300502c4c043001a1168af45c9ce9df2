@@ -1,0 +1,11 @@
+
+public class Exercitiul912 {
+
+	public static void main(String[] args) {
+		int a=25;
+		double b=a*0.62137;
+		System.out.println("Cei 25 Km/h inseamna "+b+" mile/h");
+
+	}
+
+}

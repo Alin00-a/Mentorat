@@ -1,0 +1,30 @@
+import java.util.Scanner;
+
+public class Exercitiul924 {
+
+	public static void main(String[] args) {
+		Scanner scan=new Scanner(System.in);
+		System.out.println("Introduceti 3 numere: ");
+		int numar1=scan.nextInt();
+		int numar2=scan.nextInt();
+		int numar3=scan.nextInt();
+		
+		/*
+		 * numar1 > numar2 & numar1 > numar3 => numar1 cel mai mare
+		 * numar2 > numar1 & numar2 > numar3 => numar2 cel mai mare
+		 * numar3 > numar1 & numar3 > numar2 => numar3 cel mai mare
+		 */
+		if(numar1>numar2 && numar1>numar3) {
+			System.out.println("Numar1 este cel mai mare");
+		} else if(numar2>numar1 && numar2>numar3) {
+			System.out.println("Numar2 este cel mai mare");
+		}else if(numar3>numar1 && numar3>numar2) {
+			System.out.println("Numar3 este cel mai mare");
+		}else {
+			System.out.println("eroare");
+		}
+		
+		
+	}
+
+}

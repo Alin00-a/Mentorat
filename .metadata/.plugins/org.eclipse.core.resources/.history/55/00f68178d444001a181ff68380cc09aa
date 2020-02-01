@@ -1,0 +1,25 @@
+import java.util.Scanner;
+
+public class Exercitiul923 {
+	
+	
+	public static void main(String[] args) {
+		
+		Scanner scanner = new Scanner(System.in);
+		
+		System.out.println("Introduceti numarul: ");
+		int numarTastatura;
+		while(true) {
+			numarTastatura = scanner.nextInt();
+			
+			if(numarTastatura>0) {
+				System.out.println("Numarul este pozitiv");
+			}
+			else{
+				System.out.println("Numarul este negativ");
+			}
+		}
+		
+	}
+
+}

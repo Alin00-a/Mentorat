@@ -1,0 +1,10 @@
+
+public class Exercitiul920 {
+
+	public static void main(String[] args) {
+		int b=97;
+		System.out.println("Caracterul pentru valoarea ASCII 97 este: "+a);
+
+	}
+
+}

@@ -1,0 +1,17 @@
+
+public class Exercitiul924 {
+
+	public static void main(String[] args) {
+		int i=4;
+		if(i>0) {
+			do {
+			System.out.println("Numarul 4 este pozitiv");
+		}
+			while(i<0);
+				
+			
+
+	}
+	}
+
+}

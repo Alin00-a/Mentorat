@@ -1,0 +1,14 @@
+
+public class Exeritiul919 {
+
+	public static void main(String[] args) {
+		double a=8.5;
+		double b=5.6;
+		double p=2*(b+a);
+		double A=b*a;
+		System.out.println("Perimetrul dreptunghiului este: "+p);
+		System.out.println("Aria dreptunghiului este: "+a);
+
+	}
+
+}

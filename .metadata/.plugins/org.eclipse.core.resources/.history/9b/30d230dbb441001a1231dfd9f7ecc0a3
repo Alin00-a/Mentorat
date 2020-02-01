@@ -1,0 +1,10 @@
+
+public class Exercitiul4 {
+
+	public static void main(String[] args) {
+		int r=6;
+		System.out.println("Volumul unei sfere este: (4/3)*3.14*(6*6*6)");
+
+	}
+
+}

@@ -1,0 +1,13 @@
+
+public class Exercitiul911 {
+
+	public static void main(String[] args) {
+		int a=30;
+		int b=60;
+		int t=180;
+		int c=t-a-b;
+		System.out.println("Al 3-lea unghi al triunghiului este: "+c);
+
+	}
+
+}

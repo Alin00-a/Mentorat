@@ -1,0 +1,13 @@
+
+public class Exercitiul5 {
+
+	public static void main(String[] args) {
+		int r=6;
+		int h=8;
+		double v=3.14*(r*r)*h;
+		System.out.println("Volumul cilindrului este: "+ v);
+		
+
+	}
+
+}

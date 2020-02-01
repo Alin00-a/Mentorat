@@ -1,0 +1,11 @@
+
+public class Exercitiul915 {
+
+	public static void main(String[] args) {
+		double f=80.33;
+		double k=(f+459.67)*5/9;
+		System.out.println("Temperatura in Kelvin este: "+ k);
+
+	}
+
+}
